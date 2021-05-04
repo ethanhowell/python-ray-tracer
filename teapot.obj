@@ -1,0 +1,13 @@
+# File exported by Houdini 18.5.462 (www.sidefx.com)
+# 4 points
+# 6 vertices
+# 2 primitives
+# Bounds: [-92, 0, -92] to [92, 0, 92]
+g 
+v -92 0 -92
+v 92 0 -92
+v -92 0 92
+v 92 0 92
+g 
+f 1 4 2
+f 4 1 3
